@@ -1,0 +1,14 @@
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\bin\Release\netcoreapp2.1\WebApiAutoCeccato.deps.json
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\bin\Release\netcoreapp2.1\WebApiAutoCeccato.runtimeconfig.json
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\bin\Release\netcoreapp2.1\WebApiAutoCeccato.runtimeconfig.dev.json
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\bin\Release\netcoreapp2.1\WebApiAutoCeccato.dll
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\bin\Release\netcoreapp2.1\WebApiAutoCeccato.pdb
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\obj\Release\netcoreapp2.1\WebApiAutoCeccato.csproj.CoreCompileInputs.cache
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\obj\Release\netcoreapp2.1\WebApiAutoCeccato.RazorAssemblyInfo.cache
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\obj\Release\netcoreapp2.1\WebApiAutoCeccato.RazorAssemblyInfo.cs
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\obj\Release\netcoreapp2.1\WebApiAutoCeccato.AssemblyInfoInputs.cache
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\obj\Release\netcoreapp2.1\WebApiAutoCeccato.AssemblyInfo.cs
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\obj\Release\netcoreapp2.1\WebApiAutoCeccato.RazorTargetAssemblyInfo.cache
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\obj\Release\netcoreapp2.1\WebApiAutoCeccato.dll
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\obj\Release\netcoreapp2.1\WebApiAutoCeccato.pdb
+C:\Users\kevin.toukam\Desktop\All_Project_ASP_Core_.Net\WebApiAutoCeccato\WebApiAutoCeccato\obj\Release\netcoreapp2.1\WebApiAutoCeccato.csprojAssemblyReference.cache
